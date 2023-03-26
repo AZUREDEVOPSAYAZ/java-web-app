@@ -1,4 +1,4 @@
-# node-todo-cicd
+# node-java-cicd
 
 Run these commands:
 
